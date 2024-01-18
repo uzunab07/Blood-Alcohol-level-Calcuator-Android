@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">HomeWork4</string>
+    <string name="textWeight">Weight:</string>
+    <string name="textEditWeight">N/A</string>
+    <string name="buttonSetWeight">Set</string>
+    <string name="textNumOfDrinks"># of Drinks:</string>
+    <string name="textEditNumOfDrinks">0</string>
+    <string name="textBACLevel">BAC Level:</string>
+    <string name="textEditBACLevel">0.000</string>
+    <string name="textStatus">Your Status:</string>
+    <string name="textEditStatus">You are safe</string>
+    <string name="buttonViewDrinks">View Drinks</string>
+    <string name="buttonAddDrink">Add Drink</string>
+    <string name="buttonReset">Reset</string>
+    <string name="textCancel">Cancel</string>
+    <string name="textWeight2">Weight (lbs):</string>
+    <string name="editWeightHint">Enter weight</string>
+    <string name="textGender">Gender:</string>
+    <string name="radioFemale">Female</string>
+    <string name="radioMale">Male</string>
+    <string name="textDrinkSize">Drink Size:</string>
+    <string name="textAlcoholPerc">Alcohol %:</string>
+    <string name="radioOneOz">1 oz</string>
+    <string name="radioFiveOz">5 oz</string>
+    <string name="radioTwelveOz">12 oz</string>
+    <string name="textDrink">Drink</string>
+    <string name="textAdded">Added</string>
+    <string name="textNone" />
+    <string name="buttonClose">Close</string>
+    <string name="sortAc">Sort by Alcohol %:</string>
+    <string name="sortDate">Sort by Date Added:</string>
+</resources>
